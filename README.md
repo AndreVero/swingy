@@ -2,7 +2,7 @@
 
 Text-based RPG with CLI and GUI view (Swing Framework)
 
-Usage:
+```Usage:```
 
 `Build: mvn clean package`
 
