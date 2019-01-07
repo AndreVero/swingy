@@ -1,4 +1,4 @@
-# swingy
+# Swingy
 
 Text-based RPG with CLI and GUI view (Swing Framework)
 
