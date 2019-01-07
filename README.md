@@ -2,13 +2,13 @@
 
 Text-based RPG with CLI and GUI view (Swing Framework)
 
-```Usage:```
+# Usage:
 
 `Build: mvn clean package`
 
 `Execution: java -jar target/swingy.jar [console/gui]`
 
-Features:
+# Features:
 
 • Model-View-Controller design pattern.
 
