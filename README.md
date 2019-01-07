@@ -11,6 +11,9 @@ Usage:
 Features:
 
 • Model-View-Controller design pattern.
+
 • Annotation based user input validation.
+
 • Switch between console view and GUI view at runtime, without closing the game.
+
 • Heroes persistance in a Sqlite database.
