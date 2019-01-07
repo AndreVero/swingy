@@ -4,8 +4,9 @@ Text-based RPG with CLI and GUI view (Swing Framework)
 
 Usage:
 
-Build: mvn clean package
-Execution: java -jar target/swingy.jar [console/gui]
+`Build: mvn clean package`
+
+`Execution: java -jar target/swingy.jar [console/gui]`
 
 Features:
 
